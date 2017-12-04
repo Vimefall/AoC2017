@@ -20,3 +20,5 @@ C:\Code\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csproj.Core
 C:\Code\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.exe
 C:\Code\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.pdb
 C:\Code\AdventOfCode2017\AdventOfCode2017\bin\Debug\Day2\puzzle_input.txt
+C:\Code\AdventOfCode2017\AdventOfCode2017\bin\Debug\Day4\input.txt
+C:\Code\AdventOfCode2017\AdventOfCode2017\bin\Debug\Day4\part1_test.txt
